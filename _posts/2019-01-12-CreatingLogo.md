@@ -27,3 +27,7 @@ A few trials later and I was set.
 From that point onwards, my app had a face!! -Or a hand print I guess.
 
 <center><a class="image featured"><img src="assets/images/logoDev.png" alt="Draft Main Menu" style="width:20%;" /></a></center>
+
+test 
+
+<center><a href="https://play.google.com/store?hl=en" class="image featured"><img src="assets/images/logoDev.png" alt="Get it on the play store" style="width:20%;" /></a></center>
