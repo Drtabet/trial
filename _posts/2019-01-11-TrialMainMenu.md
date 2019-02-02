@@ -15,5 +15,4 @@ Thinking forwards, I have also made a point to separate the sub-compotents ( spa
 
 Not sure about font selection though.
 
-
-<center><a class="image featured"><img src="assets/images/Trial Menu.jpg" alt="Draft Main Menu" style="width:20%;" /></a></center>
+<a class="image featured"><img src="assets/images/Trial Menu.jpg" alt="" /></a>
