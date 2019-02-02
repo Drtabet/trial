@@ -8,6 +8,6 @@ Plastic surgery is a notoriously poorly taught field in medical school. New doct
 
 **Our App is here to help !** 
 
-:  Smoothen the learning curve for new doctors
-:  Handy commonly used reference material
-:  Simplify the life of plastic surgeons
+Smoothen the learning curve for new doctors  
+Handy commonly used reference material  
+implify the life of plastic surgeons  
