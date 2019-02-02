@@ -1,6 +1,6 @@
 ---
 title: Aims
-icon: fa-bullseye
+icon: fa-arrow-circle-right
 order: 3
 ---
 
@@ -10,6 +10,6 @@ Plastic surgery is a notoriously poorly taught field in medical school. New doct
 
 Our App is here to help !
 
-- Smoothen the learning curve for new doctors
-- Reference material for older doctors
-- Simplify your life as a plastic surgeon
+Smoothen the learning curve for new doctors
+Reference material for older doctors
+Simplify your life as a plastic surgeon
