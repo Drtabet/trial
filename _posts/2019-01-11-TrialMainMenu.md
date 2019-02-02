@@ -15,4 +15,5 @@ Thinking forwards, I have also made a point to separate the sub-compotents ( spa
 
 Not sure about font selection though.
 
-<a class="image fit"><img src="{{ 'assets/images/Trial Menu.jpg' | relative_url }}" alt="Shrinking Island" /></a>
+
+<center><a class="image featured"><img src="assets/images/Trial Menu.jpg" alt="Draft Main Menu" style="width:20%;" /></a></center>
