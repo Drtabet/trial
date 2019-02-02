@@ -1,5 +1,5 @@
 ---
-title: Creating a loogo! 
+title: Creating a logo! 
 author: Dr. Patrick Tabet
 layout: post
 ---
