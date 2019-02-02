@@ -16,6 +16,8 @@ My initial thoughts was to use a recognizable flap design for my logo (i.e: Z- p
 I then decided to open my textbook and find another flap that would be recognizable. I decided to go with a hatchet flap on a face.
 A couple of trials later I realize it's not immediately understandable, way too crowded when shrunk down.
 
+<span class="image right"><img src="{{ 'assets/images/logoDev.png' | relative_url }}" alt="" /></span>
+
 A few days later after discussing a fiend of mine with general computing design experience, I moved on to anatomical drawings.  
 I started with neck anatomy, but quickly moved on to palm structures with palmar arches, nerves and tendons. That was also too crowded but did like the idea of having a hand in my logo.
 
@@ -25,5 +27,3 @@ Finally the polishing. Border or no border ? Writing on the logo or not? Circle,
 A few trials later and I was set.
 
 From that point onwards, my app had a face!! -Or a hand print I guess.
-
-<a class="image featured"><img src="assets/images/logoDev.png" alt="" /></a>
