@@ -1,5 +1,5 @@
 ---
-title: Creating a logo! 
+title: Escharotomies
 author: Dr. Patrick Tabet
 layout: post
 ---
