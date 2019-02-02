@@ -24,7 +24,8 @@ History taking guidance for all mechanism of burns to help with a complete and t
 Background knowledge on current understanding of burns pathology.  
 
 ### Escharotomy
-Description of escharotomy incision lines and indications with detailed anatomical drawings of important structures to worry about during incision.  
+Description of escharotomy incision lines and indications.  
+Detailed anatomical drawings of important structures to worry about during incision.  
 
 ## Trauma
 
