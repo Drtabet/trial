@@ -7,7 +7,6 @@ Development of the app is still in progress and with the help of the junior doct
 
 ## Burns
 
-##Burns
 Indications for referral to Burns Centre  
 Indications for admission  
 Burns History  
