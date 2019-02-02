@@ -27,4 +27,4 @@ A few trials later and I was set.
 From that point onwards, my app had a face!! -Or a hand print I guess.
 
 
-<center> <a class="image featured"><img src="ssets/images/logoDev.png" alt="Logo creation" style="width:20%;" /></a></center>
+<center> <a class="image featured"><img src="ssets/images/logoDev.png" style="width:20%;" /> </a></center>
