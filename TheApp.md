@@ -13,7 +13,7 @@ The App is currently in development, but as it is already becoming more and more
 **Try the web version from your [PC or mobile here (press ok and zoom browser to fit your screen)](http://burnsplastics.com)**  
 **Download the latest android version [from here](https://drive.google.com/open?id=1ncJ7cwmaJF-6_x2mjz_RCXq1Py2heUZW)
 
-<iframe src="http://burnsplastics.com" style="width:400; height:800px">
+<center><iframe src="http://burnsplastics.com" style="width:600; height:900px"></center>
 
 <center><p>Discuss our app game on our [Reddit Page](https://www.reddit.com/r/BurnsAndPlasticsApp)</p></center>
 
