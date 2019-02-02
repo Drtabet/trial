@@ -1,11 +1,11 @@
 ---
-title: Our References and further readings
+title: References and Readings
 layout: "page"
 icon: fa-graduation-cap
 order: 3
 ---
 
-Find below the relevant references and related further readings for each section of the app (Under Construction)
+Find below the relevant references and related further readings for each section of the app **(Under Construction)**
 
 ## Burns
 
