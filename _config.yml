@@ -30,9 +30,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Burns And Plastics Doctor Helper
+title: Burns & Plastics Doctor Helper
 subtitle: Kickstart your journey in plastic surgery
-description: An Application for Plastic Surgery Doctors
+description: An application for Doctors in Plastic Surgery
 
 author: Patrick Tabet
 email: patrick@drtabet.com
