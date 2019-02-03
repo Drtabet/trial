@@ -6,10 +6,10 @@ icon: fa-chess-rook
 hide: true
 ---
 
-<h2>PRIVACY POLICY FOR MANO A MANO</h2>
+<h2>PRIVACY POLICY FOR BURNS AND PLASTICS DOCTOR HELPER</h2>
 
 
-This privacy policy governs your use of the software application Mano A Mano (“Application”) for mobile devices that was created by LEXY COSMETICS. The Application is 1v1 local multiplayer same device mobile game. 
+This privacy policy governs your use of the software application Burns and plastics doctor helper (“Application”) for mobile devices that was created by Patrick tabet. The Application is a guide for physician use in the context of plastic surgery practice. 
 
 <h3>What information does the Application obtain and how is it used?</h3>
 
@@ -80,4 +80,4 @@ By using the Application, you are consenting to our processing of your informati
 
 <h3>Contact us</h3>
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at patricktabet+Dev@gmail.com .
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at Privacy@BurnsPlastics.com .
