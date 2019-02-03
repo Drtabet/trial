@@ -3,7 +3,7 @@ title: The App
 subtitle: Try it out for free
 layout: "page"
 icon: fa-mobile
-order: 3
+order: 2
 ---
 
 The App is currently in development, but as it is already becoming more and more useful, we have decided to make it available online for anyone to try and share.
