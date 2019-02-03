@@ -1,6 +1,6 @@
 ---
 title: Web App
-subtitle:Beta v0.19
+subtitle: Beta v0.19
 layout: "page"
 icon: fa-globe
 order: 3
