@@ -475,13 +475,16 @@
 		text-decoration: none;
 
 		&:before {
+			
 			display: inline-block;
 			font-family: FontAwesome;
 			font-size: 1.25em;
 			text-decoration: none;
 			font-style: normal;
 			font-weight: normal;
+			color: #689;               /*test*/
 			line-height: 1;
+			
 			-webkit-font-smoothing: antialiased;
 			-moz-osx-font-smoothing: grayscale;
 		}
