@@ -17,4 +17,4 @@ Unfortunately, no IOS beta version will be released, but the web-app should be f
 
 Discuss our app and give us feedback on our [Reddit Page](https://reddit.com/r/BurnsAndPlasticsApp), or email us directly.
 
-[Privacy policy](http://http://burnsplastics.com/privacy)
+[Privacy policy](http://burnsplastics.com/privacy)
