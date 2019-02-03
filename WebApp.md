@@ -2,8 +2,8 @@
 title: Web App
 subtitle:Beta v0.19
 layout: "page"
-icon: fa-mobile
-hide: true
+icon: fa-globe
+order: 3
 ---
 
 Press the OK button for app to load when using mobile device.  
