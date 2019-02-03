@@ -13,6 +13,6 @@ The App is currently in development, but as it is already becoming more and more
 **Try the web version from your [PC or mobile here (press ok and zoom browser to fit your screen)](http://Drtabet.github.io/WebApp)**  
 **Download the latest android version [from here](https://drive.google.com/open?id=1ncJ7cwmaJF-6_x2mjz_RCXq1Py2heUZW)
 
-<center><p>Discuss our app game on our [Reddit Page](https://www.reddit.com/r/BurnsAndPlasticsApp)</p></center>
+->Discuss our app game on our [Reddit Page](https://reddit.com/r/BurnsAndPlasticsApp)<-
 
 [Privacy policy](http://Drtabet.github.io/privacy.html)
