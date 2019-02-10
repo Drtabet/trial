@@ -5,79 +5,91 @@ order: 6
 ---
 Development of the app is still in progress and with the help of the junior doctor team at Morriston Hospital we plan on adding the following pages to the App.
 
+
 ## Burns
 
-Indications for referral to Burns Centre  
-Indications for admission  
-Burns History  
-Chemical burns  
-Electric burns  
-Depth assessment  
-Tbsa assessment  
-Dressing selection  
-Using Biobrane  
-Maintenance fluids  
-Consenting for various procedures  
+Indications for referral to a tertiary burns centre  
+Indications for hospital admission  
+Chemical burns management  
+Electrical burns management  
+Depth assessment guide  
+Surface area assessment guide  
+Dressing selection and types of dressings  
+Maintenance fluids equations  
+Consenting guidance for various procedures  
 
 
 ## Trauma
 
-Anatomy  
-Nerve distribution  
+3D Anatomy with muscle, vessel, and nerve labeling  
 Hand examination  
+Nerve distribution and examination  
 Brachial plexus assessment  
-Things requiring urgent transfer  
-Nailbed repair  
-Assess nec fash  
-VTE prophylaxis  
-Bites  
+Types of tendon repair  
+Nerve repair  
+Microsurgery and vessel anastomosis  
+Pathologies requiring urgent transfer to hand trauma centre  
+Flexor sheath infection assessment and management  
+Assessment and management of necrotizing fasciitis  
 High pressure injury  
-Consenting for various procedures  
-Splints  
-Flexor sheath infection  
-Extravasation injury  
+Extravasation injury management and first aid  
+Compartment syndrome  
+Management of bites (animal, human, venomous)  
+Commonly used splints  
 Fracture description terminology  
-Replant transport advice  
-Tetanus prophylaxis  
 Lower limb open fractures  
 Salter Harris Classification  
+Nail-Bed repair  
+Ear reconstruction  
+Scalp laceration  
+Consenting guidance for various procedures  
+
 
 ## Skin
 
 Skin anatomy  
-Low tension lines  
-Fitzpatrick classification  
-Cancer margins (BCC, SCC, MM, Merkel)  
+Skin Cancer Staging Calculator  
+Cancer excision margins and depth (BCC, SCC, MM, Merkel)  
+Langers and resting skin tension lines  
 Biopsy modality selection  
-Extravasation injuries  
-Common flap designs  
-Skin Cancer Stage Calculator  
+Local flap designs  
+ 
 
 ## Elective
 
-Assess flap  
-Local Flap Design  
-Types of flaps  
-Types of grafts  
 Wound management  
-Consents  
-Carpal tunnel  
+Hypospadias  
+Head and neck  
+Types of flaps (free, pediculated, etc.)  
+Types of grafts  
+Common free flaps  
+Assessing flaps  
+Breast implants (and ALCL risk)  
+Common complications  
+Consenting for common procedures  
+
 
 
 ## Practical skills
 
 Ring block  
-Use Doppler  
+Wrist block  
+Use of Doppler  
 Draining seroma  
-Face anaesthesia  
-Usage of dermatome  
-Tracheostomy  
-Usage of Watson Blade  
-Using versijet  
+Facial anaesthesia  
+Use of dermatome  
+Use of Watson Blade  
+Use of versijet  
+Use and setup of surgical microscope  
+Tracheostomy care  
+Use of electrocautery  
 Suture selection  
+
 
 ## Extras
 
-List of abbreviations (Flaps, Tendons ...)  
-List of terminology (describing fractures ...)  
+Generic VTE prophylaxis guidelines  
+List of generic abbreviations (Flaps, Tendons, etc.)  
+List of terminology (describing fractures, etc.)  
+Educational resources  
 
