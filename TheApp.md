@@ -11,10 +11,10 @@ The App is currently in active development, but as it is already becoming more u
 The Burns and Plastics Doctor Helper App is **still in Beta**, so is this website. Not all features are currently functional and some of the content might be buggy and information inaccurate.
 
 **Try the web version from your [PC or mobile here (press ok and zoom browser to fit your screen)](http://burnsplastics.com/WebApp)**  
-**Download the latest android version [from here](https://drive.google.com/open?id=1ncJ7cwmaJF-6_x2mjz_RCXq1Py2heUZW)**
+**Download the latest beta android version [from here](https://drive.google.com/open?id=1fn15ADOJQkXebSfUBVn0F0pVSWe2MKry)** (Allow unknown sources under Settings -> Security -> Unkown sources) 
 
-Unfortunately, no IOS beta version will be released, but the web-app should be functiontional straight in your browser.
+Unfortunately, IOS beta version is not available at present, but the [web-app](http://burnsplastics.com/WebApp) should be functiontional straight in your browser.
 
-Discuss our app and give us feedback on our [Reddit Page](https://reddit.com/r/BurnsAndPlasticsApp), or email us directly.
+Discuss our app online and give us feedback on our [Reddit Page](https://reddit.com/r/BurnsAndPlasticsApp), or email us directly via the home page form.
 
 [Privacy policy](http://burnsplastics.com/privacy)
