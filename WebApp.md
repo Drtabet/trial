@@ -13,9 +13,8 @@ The Burns and Plastics Doctor Helper App is **still in Beta**, so is this websit
 On mobile press the OK button for app to load.  
 On PC use mouse as you would your finger on a touch screen.  
 
-For full Webapp without our website [press here!!!](https://burnsplastics.com/TempWebappV036/) (useful to bookmark for fast access)  
+For full Webapp without our website [press here!!!](https://burnsplastics.com/TempWebappV036/) (useful to bookmark for fast access or fullscrean for mobiles)  
 
-Discuss our app with us and give us feedback on our [Reddit Page](https://reddit.com/r/BurnsAndPlasticsApp), or email us directly.
 [Privacy policy](http://burnsplastics.com/privacy)
 
 
