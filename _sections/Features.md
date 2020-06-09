@@ -4,7 +4,9 @@ icon: fa-star
 order: 5
 ---
 
-Application development was only started in early January but the app is already full of features
+Application development was started in January 2019 but the app is already full of features.
+
+Below are the features made available in our Web-App Beta on this website.
 
 ## Burns
 
