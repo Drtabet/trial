@@ -3,4 +3,6 @@ title: In Development
 icon: fa-cogs
 order: 6
 ---
-Development of the app is still in progress and with the help of the junior doctor team at Morriston Hospital and many more pages are under development.
+This App is still in active developement.
+
+Progress has been slow so far due to it being a "one man team" but with the help of PLASTA and Plastic surgery trainees from around the UK we are expecting rapid developement from now onwards.
