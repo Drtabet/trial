@@ -1,5 +1,5 @@
 ---
-title: Plastic surgery training deaneries.
+title: Training deaneries.
 subtitle: Helping you decide where to train in the UK
 layout: "page"
 icon: fa-globe
