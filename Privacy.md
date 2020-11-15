@@ -16,7 +16,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Analytics, Page views. The information that we request will be retained by us and used as described in this privacy policy. Camera use within this application is only for augmented reality purposes. No photos or videos from your device are collected or stored by BurnsPlastics UK Limited
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to analytics, page views, and links opened . The information that we request will be retained by us and used as described in this privacy policy.
 
 The app does use third party services that may collect information used to identify you.
 
@@ -33,7 +33,7 @@ We want to inform you that whenever you use our Service, in a case of an error i
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service usees “cookies” for the main purposes of its functionality and version control. The app also uses third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. The app also stores data on your device related to your preferences and app usage for the purposes of the user experience.
 
 **Service Providers**
 
