@@ -30,12 +30,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Burns & Plastics Doctor Helper
+title: BurnsPlastics
 subtitle: Kickstart your journey in plastic surgery
-description: An application for Doctors in Plastic Surgery
+description: A mobile App for plastic surgeons and healtcare professionals
 
-author: Patrick Tabet
-email: patrick@drtabet.com
+author: BurnsPlastics UK Limited
+email: info@burnsplastics.com
 avatar: assets/images/LogoSquare.jpg
 
 # You'll want to customize url and baseurl for your own site:
@@ -50,7 +50,7 @@ instagram_url:
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://twitter.com/BurnsPlastics
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-133731165-1
