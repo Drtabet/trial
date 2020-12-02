@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BurnsPlastics
-subtitle: Kickstart your journey in plastic surgery
+subtitle: Your plastic surgery app
 description: A mobile App for plastic surgeons and healtcare professionals
 
 author: BurnsPlastics UK Limited
