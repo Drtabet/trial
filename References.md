@@ -7,30 +7,27 @@ order: 5
 
 Find below the relevant references and related further readings for each section of the app **(Page still under Construction)**
 
-# Burns
+## Burns
 
 
-First aid
----------
+###First aid
+
 
 Cleland, H. (2012) Thermal burns. Assessment and acute management in the general practice setting. Australian Family Physician 41(6), 372-375.
 
 David N. Herndon. Total burn care. Elsevier Health Sciences; 2007.
 
-Burns History
--------------
+### Burns History
 
 Hettiaratchy S, Papini R. Initial management of a major burn: I--overview. BMJ. 2004 Jun 26;328(7455):1555-7. doi: 10.1136/bmj.328.7455.1555. 
 
 Teague H et.al. The Burned Patient: Assessment, Diagnosis, and Management in the ED. Trauma Reports. March 2005
 
-Indications for referral to burns service
------------------------------------------
+### Indications for referral to burns service
 
 National Network for Burn Care. National Burn Care Referral Guidance. 2012. 
 
-Chemical burns
---------------
+### Chemical burns
 
 Gnaneswaran N, Perera E, Perera M, Sawhney R. Cutaneous chemical burns: assessment and early management. Volume 44, No.3, 2015 Pages 135-139
 
@@ -42,43 +39,36 @@ Kalaskar DK, Butler PE, Ghali S, editors. Textbook of Plastic and Reconstructive
 
 Richards AM, Dafydd H, Wei FC. Key notes on plastic surgery. Blackwell Science; 2002 Mar 22.
 
-Fluid resuscitation
--------------------
+### Fluid resuscitation
 
 Temporary page, still under construction
 
-Jacksons burn model
--------------------
+### Jacksons burn model
 
 David N. Herndon. Total burn care. Elsevier Health Sciences; 2007.
 
-Escharotomies
--------------
+### Escharotomies
 
 Temporary page, still under construction
 
 David N. Herndon. Total burn care. Elsevier Health Sciences; 2007.
-------------------------------------------------------------------
 
-SCORTEN mortality calculator
-----------------------------
+### SCORTEN mortality calculator
 
 Fouchard N, Bertocchi M, Roujeau JC, Revuz J, Wolkenstein P, Bastuji-Garin S. SCORTEN: a severity-of-illness score for toxic epidermal necrolysis. Journal of Investigative Dermatology. 2000 Aug 1;115(2):149-53.
 
-Consenting for burns surgeries
-------------------------------
+### Consenting for burns surgeries
 
 Under construction
 
-# Trauma
+## Trauma
 
-3D Hand reference
------------------
+### 3D Hand reference
+
 
 Temporary page, still under construction
 
-Hand trauma history
--------------------
+### Hand trauma history
 
 Textbook of plastic and reconstructive surgery. E. Butler, Peter, Ghali, Shadi K. Kalaskar, Deepak
 
@@ -86,8 +76,7 @@ Essentials of Plastic Surgery, Jeffrey E.Janis
 
 THE HAND: Examination and Diagnosis, 3rd Edition, American Society for Surgery of the Hand
 
-Hand examination
-----------------
+### Hand examination
 
 Textbook of plastic and reconstructive surgery. E. Butler, Peter, Ghali, Shadi K. Kalaskar, Deepak
 
@@ -99,8 +88,7 @@ Assessment of Two Point Discrimination on Hand in Adult Population: An Observati
 
 Shriprabha Thube1 , Mayuri Rajesh Shah2 , Parita Hardik Kothari2 , Vidhi Shah2 
 
-Hand infections and bites
--------------------------
+### Hand infections and bites
 
 Abrams RA, Botte MJ. Hand infections: treatment recommendations for specific types. J Am Acad Orthop Surg. 1996; 4, 219--230.
 
@@ -178,8 +166,7 @@ Volz KA, Canham L, Kaplan E, Sanchez LD, Shapiro NI, Grossman SA. Identifying pa
 
 Zubowicz VN, Gravier M. Management of early human bites of the hand: a prospective randomized study. Plast Reconstr Surg. 1991; 88(1), 111--114.
 
-Replantation and revascularisation
-----------------------------------
+### Replantation and revascularisation
 
 Richards AM, Dafydd H, Wei FC. Key notes on plastic surgery. Blackwell Science; 2002 Mar 22.
 
@@ -191,8 +178,7 @@ Rebowe and Tannan 'Digital Replantation' https://www.ncbi.nlm.nih.gov/books/NBK4
 
 Janis JE 'Essentials of Plastic Surgery' Thieme Medical Publishers. 2nd Edition.
 
-Necrotising fasciitis
----------------------
+### Necrotising fasciitis
 
 Argenta A, Dzwierzynski WW. Hand Infections. In: Chung KC (Ed). Grabb and Smith's Plastic Surgery (8th Edition). Philadelphia: PA, Wolters Kulwer. 2019. 673 - 678.
 
@@ -222,21 +208,18 @@ Wong CH, Khin LW, Heng KS, Tan KC, Low CO. The LRINEC (Laboratory Risk Indicator
 
 Woon C. Necrotising Fasciitis. Available from: https://www.orthobullets.com/trauma/1007/necrotizing-fasciitis Accessed 27th October 2020. 
 
-Tetanus prophylaxis
--------------------
+### Tetanus prophylaxis
 
 https://www.gov.uk/government/publications/tetanus-the-green-book-chapter-30 
 
-Consenting for trauma surgeries
--------------------------------
+### Consenting for trauma surgeries
 
 Temporary page, still under construction
 
-# Skin
+## Skin
 
 
-Skin Anatomy
-------------
+### Skin Anatomy
 
 Arda, O., Göksügür, N. and Tüzün, Y. Basic histological structure and functions of facial skin. Clinics in Dermatology, 2014, 32(1), pp.3-13.
 
@@ -256,8 +239,7 @@ Tsatmali, M., Ancans, J. and Thody, A. J. Melanocyte Function and Its Control by
 
 Weller R, Hunter H, Mann MW. Clinical Dermatology. Hoboken: John Wiley & Sons, Incorporated; 2015.
 
-Skin lesion history
--------------------
+### Skin lesion history
 
 DermNetz NZ. Skin lesion history [Internet]. 2017. [cited 23rd October 2020] Available from: https://dermnetnz.org/cme/teledermatology-skin-cancer/skin-lesion-history/ 
 
@@ -265,8 +247,7 @@ Cancer Research UK. Risks and causes [Internet]. 2019. [cited 23rd October 2020]
 
 Geeky Medics. Dermatology history taking - OSCE guide.  [Internet]. [cited 23rd October 2020] Available from: https://geekymedics.com/dermatology-history-taking-osce-guide/
 
-Skin examination
-----------------
+### Skin examination
 
 Burge S, Wallis D, Matin R. Oxford handbook of medical dermatology. New York: Oxford University Press.
 
@@ -276,8 +257,7 @@ Examination of the skin | DermNet NZ [Internet]. Dermnetnz.org. 2008 [cited 23 O
 
 Menzies A. Melanoma - Symptoms, diagnosis and treatment | BMJ Best Practice [Internet]. Bestpractice.bmj.com. 2018 [cited 23 October 2020]. Available from: https://bestpractice.bmj.com
 
-Wound healing
--------------
+### Wound healing
 
 Bielefeld, K. A., Amini-Nik, S. and Alman, B. A. Cutaneous wound healing: recruiting developmental pathways for regeneration. Cell Mol Life Sci, 2013, 70 (12), 2059-81.
 
@@ -297,8 +277,7 @@ Singer, A. J. and Clark, R. A. Cutaneous wound healing. N Engl J Med, 1999, 341 
 
 Xue, M. and Jackson, C. Extracellular Matrix Reorganization DuringWound Healing and Its Impact on Abnormal Scarring. Advances in Wound Care, 2015, 4(3), pp.119-136.
 
-Basal cell carcinoma
---------------------
+### Basal cell carcinoma
 
 NHS. Skin cancer (non-melanoma) [internet]. 2020 [cited 2nd November 2020]. Available from: https://www.nhs.uk/conditions/non-melanoma-skin-cancer/
 
@@ -316,8 +295,7 @@ Nouri K. Mohs Micrographic Surgery. New York: Springer; 2012. 
 
 Telfer NR, Colver GB, Morton CA. Guidelines for the management of basal cell carcinoma. Br J Dermatol. 2008; 159: 35-48.
 
-Squamous cell carcinoma
------------------------
+### Squamous cell carcinoma
 
 Motley RJ, Preston PW, Lawrence CM. Multi-professional Guidelines for the Management of the Patient with Primary Cutaneous Squamous Cell Carcinoma [Internet]. [cited 2020 Oct 24]. Available from: https://www.bad.org.uk/shared/get-file.ashx?id=59&itemtype=document
 
@@ -325,8 +303,7 @@ Farasat S, Yu SS, Neel VA, Nehal KS, Lardaro T, Mihm MC, et al. A new American J
 
 SIGN 140 - Management of primary cutaneous squamous cell carcinoma Help us to improve SIGN guidelines-click here to complete our survey [Internet]. 2014 [cited 2020 Nov 5]. Available from: www.sign.ac.uk/guidelines/fulltext/50/index.html
 
-Melanoma
---------
+### Melanoma
 
 Cancer Research UK. Risks and causes of melanoma [Internet]. 2020. [cited 24th October 2020]. Available from: https://www.cancerresearchuk.org/about-cancer/melanoma/risks-causes 
 
@@ -342,8 +319,7 @@ Weinzweig J. Plastic surgery secrets plus. 2nd ed. Philadelphia: Elselvier; 2010
 
 Keung et al. Key Changes in the AJCC Eighth Edition Melanoma Staging System. The Melanoma Letter. The skin cancer foundation. Vol 36 (1). 2018.
 
-Other skin cancers
-------------------
+### Other skin cancers
 
 Evans, A., 2008. Spitz tumours. Diagnostic Histopathology, 14(1), pp.28-37.
 
@@ -351,15 +327,13 @@ Richards., Adrian., MacLeod., Thomas., Dafydd. and Hywel., 2015. Key Notes On P
 
 Sharma, S., Meligonis, G. and Todd, P., 2018. Uncommon skin cancer: pleomorphic dermal sarcoma. BMJ Case Reports, pp.bcr-2018-224483.
 
-Premalignant lesions
---------------------
+### Premalignant lesions
 
 WEINSTOCK MA, SOBER AJ. The risk of progression of lentigo maligna to lentigo maligna melanoma. Br J Dermatol [Internet]. 1987 Mar 1 [cited 2020 Oct 28];116(3):303--10. Available from: http://doi.wiley.com/10.1111/j.1365-2133.1987.tb05843.x
 
 Richards AM, Dafydd H. Key notes on plastic surgery.
 
-Benign skin lesions
--------------------
+### Benign skin lesions
 
 Burge S, Wallis D, Matin R. Oxford handbook of medical dermatology. 2nd ed. Oxford: Oxford University Press; 2016. Pg 160-161,342-345.
 
@@ -369,8 +343,7 @@ Goldstain B, Goldstain A. Overview of benign lesions of the skin [Internet]. Upt
 
 Trost J, Applebaum D, Orengo I. Common Adult Skin and Soft Tissue Lesions. Seminars in Plastic Surgery. 2016;30(03):098-107.
 
-Hydradenitis suppurativa
-------------------------
+### Hydradenitis suppurativa
 
 Adalimumab for treating moderate to severe hidradenitis suppurativa [Internet]. Nice.org.uk. 2020 [cited 19 October 2020]. Available from: www.nice.org.uk
 
@@ -386,8 +359,7 @@ Menderes A, Sunay O, Vayvada H, Yilmaz M. Surgical Management of Hidradenitis Su
 
  Ngan V, Oakley A. Hidradenitis suppurativa | DermNet NZ [Internet]. Dermnetnz.org. 2015 [cited 19 October 2020]. Available from:dermnetnz.org
 
-Acne Hyperhidrosis
-------------------
+### Acne Hyperhidrosis
 
 Acne Types - acne support [Internet]. Acne Support. 2018 [cited 13 October 2020]. Available from: http://www.acnesupport.org.uk/acne-types/
 
@@ -415,8 +387,7 @@ Smith C, Prasier D. Primary Focal Hyperhidrosis [Internet]. Uptodate.com. 2020 [
 
 SOLISH N, BENOHANIAN A, KOWALSKI J. Prospective Open-Label Study of Botulinum Toxin Type A in Patients with Axillary Hyperhidrosis. Dermatologic Surgery. 2005;31(4):405-413.
 
-Sun safety
-----------
+### Sun safety
 
 Burge S, Wallis D, Matin R. Oxford handbook of medical dermatology. 2nd ed. Oxford: Oxford University Press; 2016.
 
@@ -432,28 +403,23 @@ Ways to enjoy the sun safely [Internet]. Cancer Research UK. 2019 [cited 24 Octo
 
 Yi Zhen Chiang N, Verbov J. Dermatology - A Handbook for Medical Students and Junior Doctors [Internet]. Bad.org.uk. 2020 [cited 5 November 2020]. Available from: https://www.bad.org.uk
 
-Local flaps
------------
+### Local flaps
 
 Temporary page, still under construction
 
-Consenting for skin surgery
----------------------------
+### Consenting for skin surgery
 
 Temporary page, still under construction
 
-Elective
-========
+## Elective
 
-Breast history and examination
-------------------------------
+### Breast history and examination
 
 Daly, C. and Puckett, Y., 2020. Approach New Breast Mass. StatPearls [Internet].
 
 Mallucci P, Branford OA. Population analysis of the perfect breast: A morphometric analysis. Plast Reconstr Surg. 2014 
 
-Flap assessment
----------------
+### Flap assessment
 
 Chen K-T, Mardini S, Chuang DC-C, Lin C-H, Cheng M-H, Lin Y-T, et al. Timing of presentation of the first signs of vascular compromise dictates the salvage outcome of free flap transfers. Plast Reconstr Surg. Plast Reconstr Surg; 2007;120:187--95. 
 
@@ -461,8 +427,7 @@ Wax MK. The role of the implantable Doppler probe in free flap surgery. Laryngos
 
 Salgado CJ, Moran SL, Mardini S. Flap monitoring and patient management. Plast Reconstr Surg. 2009;124:295--302. 
 
-Mastopexy
----------
+### Mastopexy
 
 Chung KC, editor. Grabb & Smith's Plastic Surgery, 8th Edition. Lippincott Williams & Wilkins; 2020. Chapter 55: Mastopexy
 
@@ -478,8 +443,7 @@ A Step by Step Approach to Successful Cosmetic Breast Reduction - Guridi, Rodrig
 
 Qureshi AA, Myckatyn TM, Tenenbaum MM. Mastopexy and mastopexy-augmentation. Aesthet Surg J. 2018;38(4):374-384.
 
-Abdominoplasty
---------------
+### Abdominoplasty
 
 Chung KC, editor. Grabb & Smith's Plastic Surgery, 8th Edition. Lippincott Williams & Wilkins; 2020. Chapter 64: Liposuction, Abdominoplasty, and Belt Lipectomy
 
@@ -503,8 +467,7 @@ Chia CT, Neinstein RM, Theodorou SJ. Evidence-Based Medicine: Liposuction. Plast
 
 Halbesma GJ, van der Lei B. The reverse abdominoplasty: a report of seven cases and a review of English-language literature. Ann Plast Surg. Ann Plast Surg; 2008;61:133--7.
 
-Dupuytren's disease
--------------------
+### Dupuytren's disease
 
 Chung K. Grabb and Smith's plastic surgery. Lippincott Williams & Wilkins; 2019. Chapter 85: Dupuytren disease; page 858-64.
 
@@ -522,8 +485,7 @@ Hueston JT. The Table top Test. Hand. SAGE PublicationsSage UK: London, England;
 
 Hever P, Smith OJ, Nikkhah D. Dupuytren's Fasciectomy: Surgical Pearls in Planning and Dissection. Plast Reconstr Surg - Glob Open. 2020;1--3. 
 
-Carpal tunnel syndrome
-----------------------
+### Carpal tunnel syndrome
 
 Chung K. Grabb and Smith's plastic surgery. Lippincott Williams & Wilkins; 2019. Chapter 70: Management of compression neuropathies of the upper extremity; page 690-692.
 
@@ -543,8 +505,7 @@ Cks.nice.org.uk. 2020. Carpal Tunnel Syndrome | Topics A To Z | CKS | NICE. [on
 
 Li Y, Luo W, Wu G, Cui S, Zhang Z, Gu X. Open versus endoscopic carpal tunnel release: A systematic review and meta-analysis of randomized controlled trials. BMC Musculoskelet Disord. BMC Musculoskeletal Disorders; 2020;21:1--16.
 
-Liposuction
------------
+### Liposuction
 
 Chung KC, editor. Grabb & Smith's Plastic Surgery, 8th Edition. Lippincott Williams & Wilkins; 2020. Chapter 65: Liposuction, Abdominoplasty, and Belt Lipectomy
 
@@ -562,11 +523,12 @@ Colwell AS. Body Contouring. In: Lin SJ, Hijjawi JB, editors. Plast Reconstr Sur
 
 Chia CT, Neinstein RM, Theodorou SJ. Evidence-Based Medicine: Liposuction. Plast Reconstr Surg. 2017;139:267e-274e.
 
-# Skills
+
+## Skills
 
 
-Ring block
-----------
+### Ring block
+
 
 Harbison S. Transthecal digital block: flexor tendon sheath used for anaesthetic infusion. Journal of Hand Surgery. 1991 Sep 1;16(5):957.
 
@@ -578,20 +540,17 @@ Wolfe SW, Pederson WC, Kozin SH, Cohen MS. Green's Operative Hand Surgery E-Book
 
 Braun H. Local anesthesia. Lea & Febiger; 1914.
 
-Wrist block
------------
+### Wrist block
 
 Chandrasoma J, Harrison T, Ching H, Vokach-Brodsky L, Chu L. Peripheral Nerve Blocks for Hand Procedures. New England Journal of Medicine. 2018;379(10):e15.
 
 Wolfe SW, Pederson WC, Kozin SH, Cohen MS. Green's Operative Hand Surgery E-Book. Elsevier Health Sciences; 2016 Feb 24
 
-WALANT
-------
+### WALANT
 
 Temporary page, still under construction
 
-Seroma drainage
----------------
+### Seroma drainage
 
 Srivastava V, Basu S, Shukla V. Seroma Formation after Breast Cancer Surgery: What We Have Learned in the Last Two Decades. Journal of Breast Cancer. 2012;15(4):373.
 
@@ -599,20 +558,17 @@ Thomson D, Sadideen H, Furniss D. Wound drainage after axillary dissection for c
 
 Dougherty L, Lister S The Royal Marsden Manual of Clinical Nursing Procedures (Ninth Edition) pp 853.  Wiley Blackwell, West Sussex. 2015
 
-Radioisotope injection
-----------------------
+### Radioisotope injection
 
 Bluemel C, Herrmann K, Giammarile F, Nieweg O, Dubreuil J, Testori A et al. EANM practice guidelines for lymphoscintigraphy and sentinel lymph node biopsy in melanoma. European Journal of Nuclear Medicine and Molecular Imaging. 2015;42(11):1750-1766.
 
-# Extras
+## Extras
 
 
-Age calculator
---------------
+### Age calculator
 
 N/A
 
-Common abbreviations
---------------------
+### Common abbreviations
 
 N/A
