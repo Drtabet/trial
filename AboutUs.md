@@ -2,7 +2,7 @@
 title: About Us
 layout: "page"
 icon: fa-users
-order: 7
+order: 2
 ---
 
 ## Our team
