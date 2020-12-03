@@ -9,8 +9,8 @@ Find below the relevant references and related further readings for each section
 
 References
 
-Burns
-=====
+# Burns
+
 
 First aid
 ---------
@@ -72,8 +72,7 @@ Consenting for burns surgeries
 
 Under construction
 
-Trauma
-======
+# Trauma
 
 3D Hand reference
 -----------------
@@ -235,8 +234,8 @@ Consenting for trauma surgeries
 
 Temporary page, still under construction
 
-Skin
-====
+# Skin
+
 
 Skin Anatomy
 ------------
@@ -565,8 +564,8 @@ Colwell AS. Body Contouring. In: Lin SJ, Hijjawi JB, editors. Plast Reconstr Sur
 
 Chia CT, Neinstein RM, Theodorou SJ. Evidence-Based Medicine: Liposuction. Plast Reconstr Surg. 2017;139:267e-274e.
 
-Skills
-======
+# Skills
+
 
 Ring block
 ----------
@@ -607,8 +606,8 @@ Radioisotope injection
 
 Bluemel C, Herrmann K, Giammarile F, Nieweg O, Dubreuil J, Testori A et al. EANM practice guidelines for lymphoscintigraphy and sentinel lymph node biopsy in melanoma. European Journal of Nuclear Medicine and Molecular Imaging. 2015;42(11):1750-1766.
 
-Extras
-======
+# Extras
+
 
 Age calculator
 --------------
