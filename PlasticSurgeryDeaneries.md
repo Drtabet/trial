@@ -3,7 +3,8 @@ title: Training deaneries.
 subtitle: Helping you decide where to train in the UK
 layout: "page"
 icon: fa-globe
-order: 6
+order: 12
+hide: true
 ---
 This color coded map shows each training deanery's hospitals for plastic surgery training.
 
