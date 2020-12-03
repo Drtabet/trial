@@ -10,8 +10,7 @@ Find below the relevant references and related further readings for each section
 ## Burns
 
 
-###First aid
-
+### First aid
 
 Cleland, H. (2012) Thermal burns. Assessment and acute management in the general practice setting. Australian Family Physician 41(6), 372-375.
 
