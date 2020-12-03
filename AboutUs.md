@@ -55,7 +55,8 @@ Simple and easily verifiable calculators have been included within this applicat
 
 A future version of this application will be released in select markets as a medical device with more complex calculators and widgets.
 
-## Our contributors
+
+## Authors and contributors
 
 
 ### Strategic leadership
@@ -119,7 +120,7 @@ MBBS, MRCS, MSc
 Institution: Queen Victoria Hospital, Queen Victoria Hospital NHS Foundation Trust
 
 
-**Skills **
+**Skills**
 
 Mr Jacky Hong Chieh Chen
 
