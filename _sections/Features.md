@@ -4,71 +4,78 @@ icon: fa-star
 order: 5
 ---
 
-Application development was started in January 2019 but the app is already full of features.
+BurnsPlastics is a responsive cross-platform application, aimed at assisting doctors and healthcare professionals working in plastic surgery and related fields.
 
-Below are the features made available in our Web-App Beta on this website.
+This App was developed in partnership with PLASTA (the PLAstic Surgery Training Association for British trainees) and has been officially badged by BAPRAS (the British Association for Plastic Reconstructive and Aesthetic Surgery). All pages are referenced and have been reviewed by experienced surgeons with specialist interests in the relevant area holding a full BAPRAS membership.
 
-## Burns
+## Version 1.07 Features
 
-### Fluid resusitation calculator :
-Given weight and burn %TBSA the calculator will use the Parkland or Muir and Barclay equation for quick calculation of the fluids needed.  
-Calculations can be rounded to the nearest 500ml for easier prescription.  
-Provides both volume and infusion rate and takes into account time from burn injury.  
- 
+### Burns:
 
-### First aid:
-First aid guide to burn injuries adequate for advice giving to primary care physician and fast action when seeing fresh burns.  
-The guide is specific to different mechanism of burns.  
+- Burns first aid
+- Burns history taking
+- Indications for burns service referral
+- Chemical burns
+- Fluid resuscitation
+- Jacksons burn model
+- Escharotomies
+- SCORTEN mortality calculator
+- Consenting for burn surgeries
 
-### Burns history
-History taking guidance for all mechanism of burns to help with a complete and thorough assessment.  
+### Trauma:
 
-### Jacksons burn model
-Background knowledge on current understanding of burns pathology.  
+- 3D Hand anatomy
+- Hand trauma history
+- Hand examination
+- Hand infections and bites
+- Replantation and revascularisation
+- Necrotising fasciitis
+- Tetanus prophylaxis guidelines
+- Consenting for trauma surgeries
 
-### Escharotomy
-Description of escharotomy incision lines and indications.  
-Detailed anatomical drawings of important structures to take care of during incision.  
+### Skin:
 
-
-## Trauma
-
-### 3d Hand Anatomy (beta)
-This is a demonstration of potential 3D anatomy features to be implemented to the app.  
-Uses open access anatomy models.  
-Can be animated and labelled as needed.  
-
-### Tendon zones of injury
-For identification of the correct tendon zone during examination or surgery.  
-
-### Tetanus prophylaxis  
-Official government guidance for tetanus prophylaxis from the “Green Book”.  
-Link to full guidance online.  
-
-### Finger pulleys  
-Anatomical description of finger pulleys location and role.  
-
-### Replant transport advice  
-Advice to give referring centres about transplant of replant body part.  
-
-
-## Skin
-
-### Skin anatomy
-Description of skin anatomy with outline of the layers of Dermis and epidermis and description of function.  
-
-### Fitzpatrick classification
-Quick guide to fitzpatrick classification with relative melanoma risk.  
+- Skin anatomy
+- Skin lesion history
+- Skin examination
+- Wound healing
+- Benign lesions
+- Basal cell carcinoma 
+- Squamous cell carcinoma
+- Melanomas
+- Other skin cancers
+- Premalignant lesions
+- Benign skin lesions
+- Hydradenitis suppurativa
+- Acne
+- Hyperhidrosis
+- Sun safety
+- Local flaps
+- Consenting for skin surgeries
 
 
-## Practical skills
+### Elective:
 
-### Local anaesthesia calculator
-Given anaesthetic agent, concentration and patient weight, provides guidance as to the maximum dose and volume of local anaesthesia that can be safely administered.  
-Also provides helpful tips and safety advice for the new anaesthesia user.  
+- Breast history and examination
+- Flap assessment
+- Mastopexy
+- Abdominoplasty
+- Breast reduction
+- Dupuytren's disease
+- Carpal tunnel disease
+- Liposuction
+
+### Skills:
+
+- Ring Block
+- Wrist Block
+- WALANT 
+- Radioisotope injections 
+
+### Extras:
+
+- Age calculator
+- Common abbreviations
 
 
-## Extras
-
-### Age calculator
-Optimized age calculator for fast results.  
+This software is not a medical device, it contains general information and simple calculators tailored for UK practice of plastic surgery. This application does not replace formal medical education in medicine and residency in plastic surgery.
