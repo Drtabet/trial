@@ -3,7 +3,8 @@ title: Web App
 subtitle: Beta v0.21
 layout: "page"
 icon: fa-globe
-order: 3
+order: 11
+hide: true
 ---
 The App (below) is currently in active development, but as it is already becoming more useful we have decided to make it available online for anyone to try and share at this early phase.  
 
