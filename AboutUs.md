@@ -74,52 +74,45 @@ MB BCh, FRCS, FRCS (Ed.), FRCS (Plast.), MD<br>
 Institution: Morriston Hospital, Swansea Bay University Health Board
 
 
-### Section lead
+### Section leads
 
-**Burns** 
-
+**Burns** <br> 
 Mr. John A. G Gibson<br> 
 MBBcH MRCS MRes<br> 
 Institution: Morriston Hospital, Swansea Bay University Health Board
 
 
-**Trauma**
-
+**Trauma**<br> 
 Miss Poonam Valand<br> 
 BMBS, MRCS, MSc, DMCC<br> 
 Institution: Salisbury District Hospital, Salisbury NHS Foundation Trust 
 
 
-**Skin**
-
+**Skin**<br> 
 Mr Richard A J Wain<br> 
 FRCS(Plast.) PhDv<br> 
 Institution: Wythenshawe Hospital, Manchester University NHS Foundation Trust, UK
 
 
-**Elective**
-
+**Elective**<br> 
 Miss Alexandra Bucknor<br> 
 MBBS, MRCS, MSc<br> 
 Institution: Queen Victoria Hospital, Queen Victoria Hospital NHS Foundation Trust
 
 
-**Skills**
-
+**Skills**<br> 
 Mr Jacky Hong Chieh Chen<br> 
 MBBS, BSc, MRCS <br> 
 Institution: Royal Preston Hospital, Lancashire Teaching Hospitals NHS Foundation Trust
 
 
-**Art**
-
+**Art**<br> 
 Dr. Alice Fort-Schaale<br> 
 MBBS (Hons), BSc (Hons) <br> 
 Institution: St James’s University Hospital, The Leeds Teaching Hospitals NHS Trust, Leeds
 
 
-**Social media**
-
+**Social media**<br> 
 Mr. Salem Elias<br> 
 Medical Student<br> 
 Institution: Imperial College London
