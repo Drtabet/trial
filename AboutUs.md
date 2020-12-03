@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: "page"
-icon: fa-user-secret
+icon: fa-users
 order: 7
 ---
 
