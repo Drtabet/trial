@@ -2,7 +2,7 @@
 title: Privacy policy
 layout: "page"
 icon: fa-user-secret
-order: 7
+order: 8
 ---
 **Privacy Policy**
 
