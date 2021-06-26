@@ -18,8 +18,8 @@ Burns history taking
 Burns physiology  
 Jacksons burn model  
 Acute management of severe burns  
-Burns wounds assessment  
-Common dressions  
+Burns wound assessment  
+Common dressings  
 Acute management of severe burns  
 Escharotomies  
 Indications for burns service referral  
@@ -29,7 +29,6 @@ Cold injuries
 Inhalation injuries  
 Toxic shock syndrome  
 Non-accidental injuries  
-Escharotomies  
 Comfort care in non-survivable burns  
 Consenting for burn surgeries  
 
