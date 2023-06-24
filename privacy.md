@@ -81,3 +81,10 @@ By using the Application, you are consenting to our processing of your informati
 <h3>Contact us</h3>
 
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at Privacy@BurnsPlastics.com .
+
+
+
+<h3>Contact us</h3>
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at privacy@burnsplastics.com .
+
