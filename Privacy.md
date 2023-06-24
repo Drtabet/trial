@@ -27,7 +27,7 @@ Link to privacy policy of third party service providers used by the app
 
 **Log Data**
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. Your email (if volunteered), country of use, and page visited may be collected as part of regular app usage.
 
 **Cookies**
 
@@ -67,3 +67,7 @@ This policy is effective as of 2020-11-15
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at privacy@burnsplastics.com.
+
+**Data Deletion**
+
+If you would like to have your data deleted, contact us at privacy@burnsplastics.com.
